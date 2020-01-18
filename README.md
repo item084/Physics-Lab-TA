@@ -1,2 +1,4 @@
-# SU2019-JI-VP141-stuff
-SU2019 JI VP141 Physics Lab stuff
+# SU2019 JI VP141 TA coursework
+- Manual
+- Datasheet
+- Linear Fit Tutorial
